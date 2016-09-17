@@ -1,0 +1,5 @@
+git remote add origin https://github.com/u60450856/userscripts.git
+git add *.*
+git rm *.*
+git commit -m 'message'
+git push -u origin master
